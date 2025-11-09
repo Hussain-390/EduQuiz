@@ -149,7 +149,7 @@ flutter run
 
 ## 🧑‍💻 Author
 
-**Developed by:** *Mohammad Hussain SHaik*  
+**Developed by:** *Mohammad Hussain Shaik*  
 **Language:** Dart  
 **Framework:** Flutter  
 

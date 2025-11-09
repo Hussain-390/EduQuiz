@@ -149,10 +149,9 @@ flutter run
 
 ## 🧑‍💻 Author
 
-**Developed by:** *[Your Name]*  
+**Developed by:** *Mohammad Hussain SHaik*  
 **Language:** Dart  
 **Framework:** Flutter  
-**License:** MIT
 
 ---
 

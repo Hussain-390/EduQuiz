@@ -99,8 +99,8 @@ If not already installed, follow:
 
 ### 2️⃣ Clone the project
 ```bash
-git clone https://github.com/your-username/simple_quiz_app.git
-cd simple_quiz_app
+git clone https://github.com/Hussain-390/EduQuiz.git
+cd EduQuiz
 ```
 
 ### 3️⃣ Run the app

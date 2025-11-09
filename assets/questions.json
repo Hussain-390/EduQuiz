@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Performance Utility",
+      "Control Processing Unit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": "Which data structure uses FIFO?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Which keyword is used to create a constant in Dart?",
+    "options": ["let", "final", "static", "const"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Which widget is immutable in Flutter?",
+    "options": ["StatefulWidget", "StatelessWidget", "InheritedWidget", "Container"],
+    "answerIndex": 1
+  },
+  {
+    "question": "HTTP status code 404 means?",
+    "options": ["OK", "Unauthorized", "Not Found", "Bad Gateway"],
+    "answerIndex": 2
+  }
+]

@@ -1,0 +1,16 @@
+name: simple_quiz_creator_attempt
+description: Minimal quiz creator + attempter with basic analytics
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
